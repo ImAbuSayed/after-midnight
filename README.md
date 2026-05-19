@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/after-midnight/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for After Midnight](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/after-midnight/) |
+| **Get License** | [Secure Licensing Rights for After Midnight](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/after-midnight/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Subproject commit d1c431a88090b64fb0fd1e737223c2d5d8f032df
+> Karda main wait tera feel the heat
+> Raat de hanere vich fast heartbeat
+> Tere piche pagal main losing my mind
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
