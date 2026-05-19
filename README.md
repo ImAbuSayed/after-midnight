@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/after-midnight/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for After Midnight](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/after-midnight/) |
+| **Get License** | [Music Rights & Licensing for After Midnight](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/after-midnight/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `70fad5faada7b54a9f86733aaf55d79858b96f0eae10854dd0c6fafdeaf4949e` |
 | **Timestamp** | May 19, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
